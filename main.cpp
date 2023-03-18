@@ -1,9 +1,3 @@
-/**
-* ADSA Assignment 2
-* Moyang Feng a1726464
-* 08/09/2021
-*/
-
 #include <iostream>
 #include <sstream>
 #include <string>
